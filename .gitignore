@@ -1,0 +1,9 @@
+# Gitignore for raku (http://www.raku.org)
+# As part of https://github.com/github/gitignore
+
+# precompiled files
+.precomp
+lib/.precomp
+
+# IDE
+.idea/**
